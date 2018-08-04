@@ -21,7 +21,7 @@ class Nav extends Component {
                     </a>
 
                     <div className='title'>
-                        <h1>Restaurants to visit when traveling Amsterdam</h1>
+                        <h1>Restaurants in Amsterdam</h1>
                     </div>
 
             </div>
