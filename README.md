@@ -5,8 +5,9 @@ This is the final Project for the Udacity Front-end Developers Nanodegree.
 This is an app written using react and shows Restaurants I would like to visit when I tour Amsterdam.
 Locations can be filtered and markers can be clicked on to display more information about the locations.
 
-This application was bootstrapped with Create react app: https://github.com/facebook/create-react-app
-Color themes are from https://color.adobe.com/explore
+This application was bootstrapped with Create react app: https://github.com/facebook/create-react-app.
+Color themes are from https://color.adobe.com/explore.
+Application makes use of the Foursquare https://foursquare.com/ API and Google maps API.
 
 
 ## Live Demo
