@@ -24,6 +24,7 @@ Your default browser window will open and display the application in developer m
 
 For Production with service worker run:
 ```
+    >npm install
     >npm run build
     >npm serve -s build
 ```
