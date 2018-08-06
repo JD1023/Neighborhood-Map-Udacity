@@ -30,6 +30,7 @@ const Search = (props) => {
                     })
                 }
             </ul>
+            <p>Powered by <a href="https://developer.foursquare.com/"> Foursquare</a></p>
         </div>
     );
 }

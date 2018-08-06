@@ -66,6 +66,12 @@ main, #root {
     transition: transform 0.3s ease;
   }
 
+  p {
+    bottom: 5%;
+    position: fixed;
+    word-wrap: break-word;
+}
+
 .hidden {
     -webkit-transform: translate(-300px, 0);
     transform: translate(-300px, 0);
